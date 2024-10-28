@@ -1,0 +1,9 @@
+1000 Wala UV 240
+1000 Wala Taj 300
+1000 Wala poco 400
+2000 Wala Taj 520
+2000 Wala UV 650
+2000 Wala Indian 900
+5000 Wala KMR 1400
+5000 Wala RR Pyro 1900
+5000 Wala Indian 2100
